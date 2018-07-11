@@ -1,0 +1,6 @@
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\bin\Debug\NeuralNetwork2.exe.config
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\bin\Debug\NeuralNetwork2.exe
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\bin\Debug\NeuralNetwork2.pdb
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\obj\Debug\NeuralNetwork2.csproj.CoreCompileInputs.cache
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\obj\Debug\NeuralNetwork2.exe
+c:\users\john\Documents\Visual Studio 2017\Projects\NeuralNetwork2\NeuralNetwork2\obj\Debug\NeuralNetwork2.pdb
